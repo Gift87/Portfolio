@@ -1,0 +1,1 @@
+$("#modal").onload.style.display='block';
